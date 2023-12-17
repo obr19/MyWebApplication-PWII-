@@ -478,8 +478,8 @@ header a:hover{
 
     .titlewebs{
         color: blueviolet;
-        padding-top: 7%;
-        padding-left: 9%;
+        padding-top: 75px;
+        padding-left: 355px;
     }
 
     .pags{
@@ -489,3 +489,10 @@ header a:hover{
         column-gap: 110%;
     }
     
+    .footernet{
+        padding-top: 18 0px;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+    }
