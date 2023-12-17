@@ -476,4 +476,16 @@ header a:hover{
         margin-right: 5%;        
     }
 
+    .titlewebs{
+        color: blueviolet;
+        padding-top: 7%;
+        padding-left: 9%;
+    }
+
+    .pags{
+        font-size: 1.2em;
+        margin-left: 350px;
+        line-height: 230%;
+        column-gap: 110%;
+    }
     
